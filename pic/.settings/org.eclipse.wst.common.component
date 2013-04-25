@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="pic">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+<<<<<<< HEAD
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebRoot"/>
+=======
+>>>>>>> 5c78f4b16f253006e04a5d53125c797cf97f2a54
+        <property name="context-root" value="/pic"/>
+        <property name="java-output-path" value="/pic/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
